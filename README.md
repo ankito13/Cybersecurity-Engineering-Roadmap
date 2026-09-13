@@ -1,8 +1,10 @@
-# Cybersecurity Engineering Roadmap:
-This repository tracks my hands-on technical progression into Platform Security and Cloud Engineering
+# Cybersecurity & Cloud Engineering Roadmap
 
+Tracking my hands-on progression from fundamentals to cloud platform security.
 
- Level 0 Foundation compeleted on   13/9/2026
- 
- The Level 0 deliverables focus on core infrastructure fundamentals: Linux command-line operations, OS automation, network socket programming, and cryptographic hashing.
+## 📂 Roadmap Index
+- [x] **[Level 0: Infrastructure Fundamentals](./level-0)** (Linux, Bash, Python, Git)
+- [ ] **Level 1: Cloud & Container Security** *(In Progress)*
+- [ ] **Level 2: Infrastructure as Code & AWS**
+...
 
