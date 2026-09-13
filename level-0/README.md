@@ -1,12 +1,16 @@
 Cybersecurity Engineering Roadmap: Level 0 Foundation
+
 This repository tracks my hands-on technical progression into Platform Security and Cloud Engineering. The Level 0 deliverables focus on core infrastructure fundamentals: Linux command-line operations, OS automation, network socket programming, and cryptographic hashing.
 
-🐧 Linux & Bash Automation
+
+ *Linux & Bash Automation*
+
 Automated bash scripts executing system health checks and network diagnostics.
 
-system_health.sh: Monitors active processes, queries disk usage, and appends time-stamped logs to prevent data overwrites.
-network_check.sh: Evaluates network connectivity to target IPs using ICMP packets and conditional exit-status logic ($?).
-🐍 Python Security Tools
+1) system_health.sh: Monitors active processes, queries disk usage, and appends time-stamped logs to prevent data overwrites.
+2) network_check.sh: Evaluates network connectivity to target IPs using ICMP packets and conditional exit-status logic ($?).
+
+ *Python Security Tools*
 Practical CLI utilities demonstrating network interaction, file I/O, and data validation.
 
 01_ip_validator.py: Validates IPv4/IPv6 inputs using error handling and the ipaddress library.
