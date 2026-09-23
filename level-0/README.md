@@ -14,7 +14,11 @@ Automated bash scripts executing system health checks and network diagnostics.
 Practical CLI utilities demonstrating network interaction, file I/O, and data validation.
 
 01_ip_validator.py: Validates IPv4/IPv6 inputs using error handling and the ipaddress library.
+
 02_log_parser.py: Opens and parses raw system logs using context managers (with open()) and string manipulation.
+
 03_port_scanner.py: Scans target networks for open TCP ports utilizing low-level network socket connections.
+
 04_http_inspector.py: Inspects server response codes and extracts security headers using the requests library.
+
 05_hash_generator.py: Converts plaintext credentials into irreversible hexadecimal SHA-256 signatures using hashlib.
